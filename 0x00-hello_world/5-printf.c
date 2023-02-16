@@ -1,6 +1,7 @@
 #include <stdio.h>
-int main()
+int main(void)
 {
+	CC="gcc -w" ./configure ...;
 	/**
  * main - Entry point
  *
