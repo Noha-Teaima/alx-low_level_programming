@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	CC="gcc -w" ./configure ...;
+                gcc test.c -o test -std=c99 -D_POSIX_C_SOURCE=200809L;
 	/**
  * main - Entry point
  *
